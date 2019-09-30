@@ -1,0 +1,6 @@
+a.selected-status{
+    font-weight: bold;
+}
+textarea#excerpt{
+    height: 100px !important;
+}
